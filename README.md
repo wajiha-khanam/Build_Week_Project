@@ -20,7 +20,7 @@ This project focuses on extracting book data from [Books to Scrape](http://books
 | `Cleaned_Build_week_project1.csv`                    | Scraped book data in CSV format |
 | `BW_SQL_Queries.sql`        | SQL queries for analysis |
 | `BW_EDA_Data_Visualization.ipynb` | Jupyter notebook for EDA & visualizations |
-| `Analytics Aces.pptx`          | Presentation slides summarizing insights |
+| `BW_Insights`          | Presentation images summarizing insights |
 ---
 ## **How to Run the Project**
 ### **1. Web Scraping**
